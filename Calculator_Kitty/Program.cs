@@ -9,7 +9,7 @@ namespace Calculator_Kitty
     {   //This is a method
         static void Main(string[] args)
         {   
-            //This is a loop (It'll loop forever until the program is closed)
+            //This is a loop (It'll loop forever until the program is closed)....
             while (true)
             {
 
